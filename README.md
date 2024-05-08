@@ -7,4 +7,4 @@ This is a continuously updated repository designed to serve the end of the CS109
 
 
 
-<img src="/Users/zhuozhuo/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_50be725d7fb81c2c1b1f19027a4ce272/nt_data/Pic/2024-05/Thumb/70c9662aeec91786702207b260b4b458_720.png" alt="70c9662aeec91786702207b260b4b458_720" style="zoom:50%;" />
+<img src="/Users/zhuozhuo/Library/Application Support/typora-user-images/image-20240509023822072.png" alt="image-20240509023822072" style="zoom: 33%;" />
