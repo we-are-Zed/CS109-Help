@@ -148,4 +148,4 @@ project的bug就尽量少向老师或者SA发难了，每个人的写法都不�
 
 会赢的米娜桑😎
 
-<img src="/Users/zhuozhuo/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_50be725d7fb81c2c1b1f19027a4ce272/nt_data/Pic/2024-05/Thumb/38bf3ff575640228506605ac4681a862_720.png" alt="38bf3ff575640228506605ac4681a862_720" style="zoom: 33%;" />
+<img src="/Users/zhuozhuo/Desktop/CS109-Help/src/anya2.png" style="zoom:33%;" />
