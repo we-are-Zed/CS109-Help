@@ -148,4 +148,4 @@ project的bug就尽量少向老师或者SA发难了，每个人的写法都不�
 
 会赢的米娜桑😎
 
-<img src="/Users/zhuozhuo/Desktop/CS109-Help/src/anya2.png" style="zoom:33%;" />
+<img src="anya2.png" style="zoom:33%;" />
