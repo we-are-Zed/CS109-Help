@@ -7,5 +7,5 @@ This is a continuously updated repository designed to serve the end of the CS109
 <img src="src/CS109project_指南/anya.png" alt="Anya" style="zoom:33%;" />
 
 ---
-### 1. [JavaA_project经验指南 pdf](./out/CS109project_指南.pdf) by [@We-are-Zed](https://github.com/we-are-Zed)
-### 2. [JavaFX简单教程 zip](./out/Introduction_Project_JavaFx.zip) by [@xCipHanD](https://github.com/xciphand/)
+### 1. JavaA_project经验指南 [pdf下载](./out/CS109project_指南.pdf) by [@We-are-Zed](https://github.com/we-are-Zed)
+### 2. JavaFX简单教程 [md](./src/Introduction_Project_JavaFx.md)   [zip下载](./out/Introduction_Project_JavaFx.zip) by [@xCipHanD](https://github.com/xciphand/)
